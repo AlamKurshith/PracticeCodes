@@ -1,14 +1,22 @@
-package com.example.javaheadfirsy;
+package com.example.javaheadfirsy.PracticeExamples;
 
-public class Dog extends Canine{
+public class Dog {
+    int size;
+    String name;
 
-    @Override
-    public void makeNoise() {
-        super.makeNoise();
-    }
+    void bark(int n){
+        while(n>0){
+            if(size>60){
+                System.out.println("Woof woof");
+            }
+            else if(size > 14){
+                System.out.println("Ruff");
+            }
+            else{
+                System.out.println("Yip");
+            }
+            n--;
+        }
 
-    @Override
-    public void eat() {
-        super.eat();
     }
 }

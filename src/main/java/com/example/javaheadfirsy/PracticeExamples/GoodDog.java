@@ -1,3 +1,5 @@
+package com.example.javaheadfirsy.PracticeExamples;
+
 public class GoodDog {
     private int size;
     public int getSize(){

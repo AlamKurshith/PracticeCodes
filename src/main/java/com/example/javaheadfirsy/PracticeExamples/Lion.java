@@ -1,6 +1,6 @@
-package com.example.javaheadfirsy;
+package com.example.javaheadfirsy.PracticeExamples;
 
-public class Lion extends Feline{
+public class Lion extends Feline {
 
     @Override
     public void makeNoise() {

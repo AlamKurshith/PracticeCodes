@@ -1,4 +1,4 @@
-package com.example.javaheadfirsy;
+package com.example.javaheadfirsy.PracticeExamples;
 
 public class Animal {
     public String picture;

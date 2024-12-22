@@ -1,4 +1,4 @@
-package com.example.javaheadfirsy;
+package com.example.javaheadfirsy.PracticeExamples;
 
 class Vet {
     public void giveShot(Animal a) {

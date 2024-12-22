@@ -1,3 +1,5 @@
+package com.example.javaheadfirsy.PracticeExamples;
+
 public class DrumKit {
     boolean TopHat = true;
     boolean snare = true;

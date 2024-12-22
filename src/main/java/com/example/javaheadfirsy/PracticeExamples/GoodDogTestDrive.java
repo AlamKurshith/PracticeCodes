@@ -1,3 +1,5 @@
+package com.example.javaheadfirsy.PracticeExamples;
+
 public class GoodDogTestDrive {
 
     public static void main(String[] args){

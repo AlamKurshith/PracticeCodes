@@ -1,6 +1,6 @@
-package com.example.javaheadfirsy;
+package com.example.javaheadfirsy.PracticeExamples;
 
-public class Cat extends Feline{
+public class Cat extends Feline {
     @Override
     public void makeNoise() {
         super.makeNoise();

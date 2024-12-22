@@ -1,3 +1,5 @@
+package com.example.javaheadfirsy.PracticeExamples;
+
 public class DVDPlayer {
 
     boolean canRecord = false;

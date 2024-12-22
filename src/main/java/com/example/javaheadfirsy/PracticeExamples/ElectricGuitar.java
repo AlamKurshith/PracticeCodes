@@ -1,3 +1,5 @@
+package com.example.javaheadfirsy.PracticeExamples;
+
 public class ElectricGuitar {
     String brand;
     int numOfPickups;

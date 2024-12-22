@@ -1,24 +1,13 @@
-package com.example.javaheadfirsy;
+package com.example.javaheadfirsy.PracticeExamples;
 
-public class clock {
-
+public class Clock {
     String time;
 
-    void setTime(String t){
+     void setTime(String t){
         time = t;
     }
-
     String getTime(){
         return time;
     }
-}
 
-class ClockTestDrive{
-    public static void main(String[] args){
-        clock c = new clock();
-
-        c.setTime("12:45");
-        String tod = c.getTime();
-        System.out.println("Time is: " + tod);
-    }
 }

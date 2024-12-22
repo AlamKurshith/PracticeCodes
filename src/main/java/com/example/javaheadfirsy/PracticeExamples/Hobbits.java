@@ -1,3 +1,5 @@
+package com.example.javaheadfirsy.PracticeExamples;
+
 class Hobbits {
     String name;
 
