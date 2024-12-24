@@ -1,4 +1,4 @@
-package com.example.javaheadfirsy.DesignPatterns;
+package com.example.javaheadfirsy.DesignPatterns.Builder;
 
 public class Example1 {
 
