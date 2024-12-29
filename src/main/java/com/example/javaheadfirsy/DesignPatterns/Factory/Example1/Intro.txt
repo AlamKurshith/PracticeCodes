@@ -1,0 +1,14 @@
+
+
+
+Factory design patter:
+
+It is a creational design pattern used to create object without specifying the exact class of the object being created.
+It provides a way to delegate the instantiate logic to subclasses or a factory class.
+
+Use Cases:
+
+-When there is a common interface or super class and multiple subclasses
+but the exact subclass to instantiate is determined at the runtime.
+-Useful when object creation logic is complex
+-Useful when the class to instantiate is not known in advance.
